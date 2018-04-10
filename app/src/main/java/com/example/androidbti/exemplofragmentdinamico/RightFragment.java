@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by android.bti on 05/04/18.
+ * Created by Pedro H. B. Cavalcante on 05/04/18.
  */
 
 public class RightFragment extends Fragment {
